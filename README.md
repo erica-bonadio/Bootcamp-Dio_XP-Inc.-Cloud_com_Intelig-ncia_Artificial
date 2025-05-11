@@ -1,9 +1,7 @@
 # Botcamp Dio XP Inc. - Cloud com Inteligência Artificial
 
 ![Logo da DIO](https://hermes.digitalinnovation.one/assets/diome/logo-full.svg)
-![Logo da XP Inc.](https://logos-download.com/wp-content/uploads/2021/04/XP_Inc_Logo.png)
 ![Badge da Linguagem de Programação Principal (ex: Python)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Badge de alguma tecnologia de Cloud utilizada (ex: AWS, Azure, GCP)](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Badge de alguma tecnologia de IA utilizada (ex: TensorFlow, PyTorch, scikit-learn)](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 [![Licença](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contribuições](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/pulls)
